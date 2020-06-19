@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gammamod",
+  "name": "Gamma Mod",
+  "description": "A mod which allows you to change your gamma with the '/gamma' command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Condolence"],
+  "credits": "Condolence",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
